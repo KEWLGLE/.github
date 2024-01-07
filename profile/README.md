@@ -1,6 +1,8 @@
 ## <h2>Hi there 👋</h2>
 <h3>🙋‍♀️ KEWLGLE is an organisation that makes/hosts java script & python applications whether it is frontend or backend. 
 If you want to join the team than you can contact me.</h3>
+
+- 📫 How to reach me **ayaanvasudeva@gmail.com**
 <!--
 
 **Here are some ideas to get you started:**
